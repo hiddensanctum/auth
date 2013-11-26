@@ -7,7 +7,7 @@ This is a basic Rails Authentication application based upon the Railscast [tutor
 
 ## Usage
 
-Fill Free to look through the code to learn how basic rails authentitcation works
+Feel Free to look through the code to learn how basic rails authentitcation works
 
 ### Known Issues
 
